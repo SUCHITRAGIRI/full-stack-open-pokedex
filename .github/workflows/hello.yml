@@ -12,7 +12,7 @@ jobs:
      run: |
       echo "Hello World!"
    - name: Show the date
-      run: date   
+     run: date   
 
    - name: List files permissions 
      run: ls -l
